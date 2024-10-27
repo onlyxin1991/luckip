@@ -1,0 +1,87 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+4.242.220.94,8080,443,true,SJC,North America,US,San Jose,271,11.46
+20.91.225.232,2053,443,true,ARN,Europe,SE,Stockholm,464,11.38
+13.67.136.12,443,443,true,ORD,North America,US,Chicago,507,11.37
+20.33.30.36,2083,443,true,LAX,North America,US,Los Angeles,257,11.20
+4.219.15.140,8443,443,true,CPH,Europe,DK,Copenhagen,184,11.13
+20.91.225.232,8443,443,true,ARN,Europe,SE,Stockholm,544,11.12
+20.163.71.179,443,443,true,SJC,North America,US,San Jose,312,11.11
+4.219.15.140,2053,443,true,CPH,Europe,DK,Copenhagen,185,10.78
+4.221.60.243,8443,443,true,JNB,Africa,ZA,Johannesburg,301,10.33
+74.249.233.213,443,443,true,ORD,North America,US,Chicago,349,10.31
+4.221.60.243,2053,443,true,JNB,Africa,ZA,Johannesburg,200,10.29
+172.214.176.68,2053,443,true,ORD,North America,US,Chicago,365,9.93
+172.214.176.68,8443,443,true,ORD,North America,US,Chicago,405,9.91
+4.182.90.213,443,443,true,FRA,Europe,DE,Frankfurt,381,9.89
+20.62.202.159,443,443,true,IAD,North America,US,Ashburn,406,9.66
+20.36.131.211,443,443,true,IAD,North America,US,Ashburn,431,9.63
+158.23.168.120,443,443,true,DFW,North America,US,Dallas,279,9.48
+20.109.23.42,443,443,true,IAD,North America,US,Ashburn,492,9.33
+4.255.56.138,443,443,true,IAD,North America,US,Ashburn,345,8.95
+4.255.56.137,443,443,true,IAD,North America,US,Ashburn,312,8.90
+20.25.205.37,8443,443,true,ORD,North America,US,Chicago,408,8.83
+20.151.60.161,8443,443,true,YYZ,North America,CA,Toronto,245,8.82
+20.62.172.88,443,443,true,IAD,North America,US,Ashburn,343,8.82
+20.221.32.145,443,443,true,ORD,North America,US,Chicago,318,8.78
+172.212.108.47,443,443,true,IAD,North America,US,Ashburn,353,8.64
+20.25.205.37,2053,443,true,ORD,North America,US,Chicago,376,8.57
+158.23.81.224,2053,443,true,DFW,North America,US,Dallas,315,8.49
+13.68.186.91,443,443,true,IAD,North America,US,Ashburn,385,8.35
+20.121.115.188,443,443,true,IAD,North America,US,Ashburn,456,8.27
+20.151.90.208,8443,443,true,YYZ,North America,CA,Toronto,362,8.23
+4.239.248.70,8443,443,true,YYZ,North America,CA,Toronto,297,8.15
+158.23.81.224,8443,443,true,DFW,North America,US,Dallas,346,8.11
+20.220.29.122,2053,443,true,YYZ,North America,CA,Toronto,312,8.08
+20.84.117.28,443,443,true,IAD,North America,US,Ashburn,283,8.08
+20.228.249.211,2053,443,true,IAD,North America,US,Ashburn,339,8.07
+20.220.29.122,8443,443,true,YYZ,North America,CA,Toronto,275,8.06
+20.151.63.165,8443,443,true,YYZ,North America,CA,Toronto,278,8.05
+48.217.34.120,443,443,true,IAD,North America,US,Ashburn,362,8.02
+172.177.248.69,8443,443,true,IAD,North America,US,Ashburn,378,7.99
+20.246.127.166,443,443,true,IAD,North America,US,Ashburn,255,7.79
+20.228.249.211,8443,443,true,IAD,North America,US,Ashburn,383,7.76
+20.127.201.36,443,443,true,IAD,North America,US,Ashburn,366,7.72
+52.165.82.62,443,443,true,ORD,North America,US,Chicago,273,7.62
+4.248.47.209,8443,443,true,YUL,North America,CA,Montréal,289,7.61
+137.116.91.147,8443,443,true,IAD,North America,US,Ashburn,454,7.45
+20.200.127.8,8443,443,true,YYZ,North America,CA,Toronto,376,7.41
+4.172.225.82,8443,443,true,YYZ,North America,CA,Toronto,265,7.26
+172.200.2.241,443,443,true,IAD,North America,US,Ashburn,333,7.09
+172.174.249.255,443,443,true,IAD,North America,US,Ashburn,287,7.03
+4.172.225.98,8443,443,true,YYZ,North America,CA,Toronto,276,6.92
+20.151.238.192,8443,443,true,YYZ,North America,CA,Toronto,456,6.50
+172.208.44.21,443,443,true,IAD,North America,US,Ashburn,482,6.42
+40.79.73.114,8443,443,true,IAD,North America,US,Ashburn,380,6.21
+4.206.223.188,8443,443,true,YYZ,North America,CA,Toronto,376,5.95
+4.152.146.92,443,443,true,IAD,North America,US,Ashburn,364,5.76
+104.46.101.90,8443,443,true,IAD,North America,US,Ashburn,566,5.21
+20.74.223.241,443,443,true,MCI,North America,US,Kansas City,538,4.25
+20.74.223.241,8080,443,true,MCI,North America,US,Kansas City,527,4.19
+191.235.86.71,8443,443,true,GRU,South America,BR,São Paulo,347,3.95
+191.235.86.71,2053,443,true,GRU,South America,BR,São Paulo,476,3.95
+20.52.104.187,443,443,true,KIX,Asia Pacific,JP,Osaka,553,3.67
+20.220.204.217,443,443,true,YYZ,North America,CA,Toronto,361,0.07
+20.204.43.57,80,443,false,BOM,Asia Pacific,IN,Mumbai,52,0.06
+137.116.251.154,80,443,false,DUB,Europe,IE,Dublin,161,0.02
+51.137.93.247,80,443,false,AMS,Europe,NL,Amsterdam,154,0.02
+13.90.157.110,80,443,false,IAD,North America,US,Ashburn,222,0.02
+52.226.76.91,80,443,false,IAD,North America,US,Ashburn,222,0.02
+20.48.5.180,80,80,false,NRT,Asia Pacific,JP,Tokyo,112,0.00
+51.143.162.160,80,80,false,LHR,Europe,GB,London,150,0.00
+51.140.154.44,2086,2086,false,LHR,Europe,GB,London,151,0.00
+51.140.44.206,2086,2086,false,LHR,Europe,GB,London,151,0.00
+104.40.244.228,80,80,false,AMS,Europe,NL,Amsterdam,153,0.00
+40.66.63.160,80,80,false,CDG,Europe,FR,Paris,154,0.00
+13.95.193.125,80,443,false,AMS,Europe,NL,Amsterdam,155,0.00
+51.140.191.188,2086,2086,false,LHR,Europe,GB,London,160,0.00
+104.40.244.228,443,443,true,AMS,Europe,NL,Amsterdam,177,0.00
+51.141.162.228,80,80,false,SEA,North America,US,Seattle,186,0.00
+20.58.24.221,2086,2086,false,LHR,Europe,GB,London,210,0.00
+172.191.74.198,8080,80,false,IAD,North America,US,Ashburn,222,0.00
+4.255.56.138,80,80,false,IAD,North America,US,Ashburn,224,0.00
+20.83.163.41,80,80,false,IAD,North America,US,Ashburn,227,0.00
+4.255.56.137,80,80,false,IAD,North America,US,Ashburn,227,0.00
+172.191.74.198,443,443,true,IAD,North America,US,Ashburn,239,0.00
+172.174.249.255,80,80,false,IAD,North America,US,Ashburn,241,0.00
+20.119.73.200,80,80,false,IAD,North America,US,Ashburn,246,0.00
+4.152.146.110,443,443,true,IAD,North America,US,Ashburn,323,0.00
